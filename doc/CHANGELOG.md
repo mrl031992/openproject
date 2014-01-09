@@ -40,6 +40,7 @@ See doc/COPYRIGHT.rdoc for more details.
 * `#2159` [Accessibility] Link form elements to their label - repository administration
 * `#2160` [Accessibility] Link form elements to their label - new LDAP authentication
 * `#2161` [Accessibility] Link form elements to their label - new color
+* `#2228` [Accessibility] low contrast in backlogs task view
 * `#2229` [Accessibility] low contrast in calendar view
 * `#2500` Change default configuration in new OpenProject application so new projects are not public by default
 * `#3528` [Data Migration] Type 'none' is not migrated properly in Timelines
