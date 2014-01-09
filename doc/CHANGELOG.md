@@ -50,6 +50,7 @@ See doc/COPYRIGHT.rdoc for more details.
 * [Accessibility] Reactivate accessibility css; Setting for Accessibility mode for anonymous users
 * Fixed workflow copy view
 * Add redirect from /wp to /work_packages for less typing
+* Update pg-gem version
 
 ## 3.0.0pre41
 
